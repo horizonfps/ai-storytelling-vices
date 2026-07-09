@@ -23,8 +23,8 @@ The vices are the same whoever is at the keyboard. Only the lever differs: a mes
 
 - **[The Core Idea](docs/the-core-idea.md)** covers the reflexive forcing function, why plain rules under-deliver on prose, and both the chat and tool versions. Start here regardless of which audience you're in.
 - **[Cheatsheet](docs/cheatsheet.md)** puts the whole catalog on one page: each vice, its one-line tell, and its fastest fix. Keep it open while you write or debug.
-- **[Vices catalog](docs/vices/)** is the field guide proper, with one document per vice: the tell, a quick mental test, original before/after examples across varied genres, the root cause, and both fixes.
-- **[Techniques](docs/techniques/)** collects the reusable methods the vice docs draw on: reflexive schema gates, post-hoc validation, principles over rules, grounding voice in real exemplars, anti-autophagy memory, separating planning from prose, and how to test fixes honestly.
+- **[Vices catalog](docs/vices/README.md)** is the field guide proper, with one document per vice: the tell, a quick mental test, original before/after examples across varied genres, the root cause, and both fixes.
+- **[Techniques](docs/techniques/README.md)** collects the reusable methods the vice docs draw on: reflexive schema gates, post-hoc validation, principles over rules, grounding voice in real exemplars, anti-autophagy memory, separating planning from prose, and how to test fixes honestly.
 - **[Glossary](docs/glossary.md)** holds the shared vocabulary (vice, tell, forcing function, autophagy, pink elephant, register, model ceiling, and more), so every doc reads the same way.
 
 ## Start here
@@ -33,13 +33,13 @@ The vices are the same whoever is at the keyboard. Only the lever differs: a mes
 
 1. Read [The Core Idea](docs/the-core-idea.md); the manual, by-hand version of the fix is near the end.
 2. Skim the [Cheatsheet](docs/cheatsheet.md) and find the two or three vices that bother you most.
-3. Open those entries in the [vices catalog](docs/vices/) and use the quick-fix section. Good places to start: [Contrastive Reveal](docs/vices/contrastive-reveal.md), [Gesture Gloss](docs/vices/gesture-gloss.md), and [Aphorism & Oracle Voice](docs/vices/aphorism-and-oracle.md).
+3. Open those entries in the [vices catalog](docs/vices/README.md) and use the quick-fix section. Good places to start: [Contrastive Reveal](docs/vices/contrastive-reveal.md), [Gesture Gloss](docs/vices/gesture-gloss.md), and [Aphorism & Oracle Voice](docs/vices/aphorism-and-oracle.md).
 
 **If you build AI narrative tools:**
 
 1. Read [The Core Idea](docs/the-core-idea.md), then [Reflexive Schema Gates](docs/techniques/schema-gates.md) for the mechanics.
 2. Read [No Pink Elephant](docs/techniques/no-pink-elephant.md) and [Principles Over Rules](docs/techniques/principles-over-rules.md), the two mistakes that undo most attempts.
-3. Pick the vices you actually see in your outputs from the [catalog](docs/vices/) and apply their systematic fixes. For diffuse or semantic vices, pair the gate with [Post-Hoc Validation and Regeneration](docs/techniques/post-hoc-validation-and-regen.md), and measure honestly with [Testing Vices and Accepting Ceilings](docs/techniques/testing-vices-and-ceilings.md).
+3. Pick the vices you actually see in your outputs from the [catalog](docs/vices/README.md) and apply their systematic fixes. For diffuse or semantic vices, pair the gate with [Post-Hoc Validation and Regeneration](docs/techniques/post-hoc-validation-and-regen.md), and measure honestly with [Testing Vices and Accepting Ceilings](docs/techniques/testing-vices-and-ceilings.md).
 
 ## How to use these fixes
 
@@ -59,7 +59,7 @@ Two house rules keep the guide portable and honest:
 - **Keep it general.** Every lesson must stand alone as craft advice. No references to specific projects, games, or franchises; replace any source-specific example with an original, neutral one.
 - **Don't commit the vices you document.** Write in plain, warm English, use affirmative instructions, rotate examples across genres, and follow the vocabulary in the [glossary](docs/glossary.md).
 
-Open an issue to propose or discuss a change, or send a pull request. If you're adding a vice, mirror the structure of an existing entry in the [catalog](docs/vices/).
+Open an issue to propose or discuss a change, or send a pull request. If you're adding a vice, mirror the structure of an existing entry in the [catalog](docs/vices/README.md).
 
 ## License
 

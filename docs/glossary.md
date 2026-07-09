@@ -128,7 +128,7 @@ Asking a model to perform a task from instructions alone, with no worked example
 
 ## Named vices (quick index)
 
-Short definitions for specific failure modes. Most are catalogued in [vices/](vices/) with a full doc; a few are sub-forms or siblings noted here.
+Short definitions for specific failure modes. Most are catalogued in [vices/](vices/README.md) with a full doc; a few are sub-forms or siblings noted here.
 
 ### Aphorism / oracle voice
 
